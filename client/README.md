@@ -1,3 +1,17 @@
+### A MERN stack project for a holiday booking-style website
+
+This project stems from a youtube tutorial with my own added customised functionality.
+
+The .env file has been /gitignore'd. You will need to create one in the api directory with your own MONGODB URI and JWT secret.
+
+If I were using git from the beginning of the project I would definitely have put the /api and /client directories in different git branches, but most of the base project was already complete by the time I got to the git side of things...
+
+---
+
+EVERYTHING BELOW THIS LINE IS THE DEFAULT CREATE REACT APP DOCS...
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
